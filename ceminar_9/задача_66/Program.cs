@@ -14,10 +14,4 @@ Console.WriteLine(SummaRec(N,M));
 
 
 
-// string SummaRec(int N)
-// {
-// if (N == 0) return " ";
-// return SummaRec(N - 1)+ " " + $"{N} ";
-// }
 
-// Console.WriteLine(SummaRec(5));
